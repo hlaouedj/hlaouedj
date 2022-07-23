@@ -6,7 +6,7 @@
 
 Programmer | Problem Solving  | Learner  
 
-?></h3>
+</h3>
 
 - 🔭 I’m currently working on **implementing and design of advancing communication systems for R&D**
 
