@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 , I'm H-Laouedj,
-I prefer to be called by my nickname "Hoc"
-"Hoc":/hɔːk/==🦅Hawk🦅</h1>
+ <br>I prefer to be called by my nickname "Hoc"
+ <br>"Hoc":/hɔːk/==🦅Hawk🦅</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Problem Solving  | Learner  
